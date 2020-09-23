@@ -1,4 +1,4 @@
-:sunglasses::heart: FullStack .NET Developer
+:heart: FullStack .NET Developer :sunglasses:
 
 Front-End: HTML/Javascript/CSS; JQuery; WebForms; Razor; Razor Pages; React; Angular;
 
