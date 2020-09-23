@@ -1,5 +1,5 @@
-FullStack .NET Developer
+:sunglasses::heart: FullStack .NET Developer
 
-HTML/Javascript/CSS; JQuery; WebForms; Razor; Razor Pages; React; Angular;
+Front-End: HTML/Javascript/CSS; JQuery; WebForms; Razor; Razor Pages; React; Angular;
 
-C#; .NET; EF; MSSQL, MySQL; MediatR; ModelWrapper;
+Back-End: C#; .NET; EF; MSSQL, MySQL; MediatR; ModelWrapper;
